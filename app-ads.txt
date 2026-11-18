@@ -2,6 +2,9 @@
 # Updated 13 Nov 2026
 OWNERDOMAIN=beratseyhan.github.io
 
+# Google AdMob (Vacuum Sort iOS + Android, berseygames account), added 18 Nov 2026
+google.com, pub-8966667670826763, DIRECT, f08c47fec0942fa0
+
 # Google AdMob (Museum Art iOS)
 google.com, pub-4960475666092369, DIRECT, f08c47fec0942fa0
 
